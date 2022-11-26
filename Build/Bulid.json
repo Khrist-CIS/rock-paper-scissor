@@ -1,0 +1,16 @@
+{
+"companyName": "Click the Enter",
+"productName": "Rock,Paper,Scissors",
+"productVersion": "0.1",
+"dataUrl": "Bulid.data.unityweb",
+"wasmCodeUrl": "Bulid.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bulid.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
